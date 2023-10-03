@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973525112881",
+    "project_id": "trackless-vpn-ed45e",
+    "storage_bucket": "trackless-vpn-ed45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973525112881:android:2944b870a5abc311fa9d10",
+        "android_client_info": {
+          "package_name": "com.rbs.studio.trackless.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973525112881-sjlq1uhpsan5tqkmqt205nggfdfsvu6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMpqahfBYXPjqrrnsF15Tp16Y0YPw9zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973525112881-sjlq1uhpsan5tqkmqt205nggfdfsvu6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
