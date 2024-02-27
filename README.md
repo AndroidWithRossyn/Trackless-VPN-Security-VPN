@@ -1,53 +1,30 @@
-<p align="center">
-  <h1 align="center">Trackless VPN - Security, VPN</h1>
-In today's digital age, our online presence is an integral part of our daily lives. We rely on the internet for work, entertainment, and staying connected with loved ones. However, this digital landscape comes with its own set of challenges, including security concerns and geographical restrictions on content access. This is where Trackless VPN comes into play, offering a revolutionary solution that ensures secure browsing and unrestricted access to online content.
-<br>
-<br>
+<h1 align="center">Trackless VPN - Security, VPN</h1>
+   
+<h4 align="center">In today's digital age, our online presence is an integral part of our daily lives. We rely on the internet for work, entertainment, and staying connected with loved ones. However, this digital landscape comes with its own set of challenges, including security concerns and geographical restrictions on content access. This is where Trackless VPN comes into play, offering a revolutionary solution that ensures secure browsing and unrestricted access to online content.</h4>
 
-- ⚡ If You want to join us than message on <a href="https://wa.me/+919694260426/">
-  Whatsapp</a> , <a href="banrossyn@gmail.com">Mail</a>
-  &
-  <a href="https://t.me/banrossyn">Telegram</a>.
 
-> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
 
-# (JAVA)
+<div align="center">
 
-<p align="center">
-    <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png" Width="400"/>
+![Stars](https://img.shields.io/github/stars/AndroidWithRossyn/Trackless-VPN-Security-VPN)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/Trackless-VPN-Security-VPN)
+![pv](https://pageview.vercel.app/?github_repo=Trackless-VPN-Security-VPN)
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
+<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
+<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-blue"></a>
+
+</div>
+
+
+ <p align="center">
+    <a href="https://github.com/OmaPrakash/Trackless-VPN-Security-VPN/assets/118904953/e8219dca-c39b-4ef3-bfc5-c2972d507eb1">
+      <img src="https://github.com/OmaPrakash/Trackless-VPN-Security-VPN/assets/118904953/e8219dca-c39b-4ef3-bfc5-c2972d507eb1" width="1280" />
     </a>
   </p>
-<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
 
-# What's new:
-
-    🔥 Bug Fixed.
-
-
-# Source Code Available at Low Price.
-
-For any inquiry, app support or app customization contact us at
-
-– banrossyn@gmail.com
-
-–  https://wa.me/+919694260426/
-
-–  https://t.me/banrossyn/
-
-# Note:
-
-This source code will be offical given directly through the developer. You will not find this on any
-selling website. To buy the source code, you have to directly connect with the developer. For this,
-payment will have to be made through the method given by the developer, after payment you will be
-given the source code through mail. Any kind of change in the app will be charged separately. After
-purchasing the app, you will be helped till it is published.
-
-Regars
-
-Rossyn
-
-# Download Now:
+Latest Version Source Code Available : https://play.google.com/store/apps/details?id=com.rbs.studio.trackless.vpn
+#
 
 <p align="center">
     <a href="https://github.com/OmaPrakash/Trackless-VPN-Security-VPN/raw/main/app-debug.apk">
@@ -72,7 +49,7 @@ Are you tired of encountering online barriers and censorship? Trackless VPN's Un
 Total Free VPN App: Security Without Compromise
 Online security should be accessible to all. Trackless VPN's Total Free VPN App offers complete protection without hidden costs. Enjoy all the features without any financial burden.
 
-## vInstant Protection with Open VPN
+## Instant Protection with Open VPN
 Securing your digital presence should be effortless. With our Open VPN for the Fastest Connection, safeguarding your online activities is just a tap away. Experience instant protection and browse securely with ease.
 
 ## Effortless Security with Quick VPN Connection
@@ -99,11 +76,6 @@ Trackless VPN is more than just an app; it's your companion in navigating the di
 
 
 
- <p align="center">
-    <a href="https://github.com/OmaPrakash/Trackless-VPN-Security-VPN/assets/118904953/e8219dca-c39b-4ef3-bfc5-c2972d507eb1">
-      <img src="https://github.com/OmaPrakash/Trackless-VPN-Security-VPN/assets/118904953/e8219dca-c39b-4ef3-bfc5-c2972d507eb1" width="1280" />
-    </a>
-  </p>
 
 # Security- VPN:
 
@@ -149,23 +121,8 @@ This app doesn’t collect user data
 
   </p>
 
-# Rate the app:
-
-Please consider rating the app if you are satisfied with the product. Thank you.
-
-# License:
-
-```
-Copyright 2020 Rossyn
-Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
-See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
-The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
-you may not use this file except in compliance with the License. You may obtain a copy of the 
-License at 
-  http://www.apache.org/licenses/LICENSE-2.0 
-Unless required by applicable law or agreed to in writing, software distributed under the License is 
-distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
-express or implied. See the License for the specific language governing permissions and limitations under the License."
-  
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
